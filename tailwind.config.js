@@ -5,7 +5,7 @@ export default {
     theme: {
         extend: {
             fontFamily: {
-                montserrat: ['Roboto', 'sans-serif'],
+                roboto: ['Roboto', 'sans-serif'],
                 poppins: ['Poppins', 'sans-serif'],
             },
             colors: {
